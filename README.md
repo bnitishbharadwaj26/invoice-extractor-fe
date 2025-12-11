@@ -33,8 +33,6 @@ npm run dev
 ```
 The application will open at `http://localhost:3000`.
 
-Alternatively, after initial setup, you can run both frontend and backend using the root `run.bat` (Windows) or `run.sh` (Linux/Mac) script.
-
 ## Features
 - **Connect Gmail**: Secure OAuth flow.
 - **Dashboard**: View extracted invoices in a table.
